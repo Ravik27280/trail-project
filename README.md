@@ -1,6 +1,7 @@
 # trail-project
 
 /this is my 4th PR for Hacktober fest
+/PR Req for october
 hacktober fest
 Reverse a string 
 class Solution {
