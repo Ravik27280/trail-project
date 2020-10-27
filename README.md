@@ -1,6 +1,6 @@
 # trail-project
-PR 3 for hacktober fest
-hacktober fest
+
+
 Reverse a string 
 class sstring{
     public String reverseWords(String s) {
