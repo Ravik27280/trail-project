@@ -1,8 +1,13 @@
 # trail-project
-444444
-This program reverse the string wprd by word
+
+
+
+
+
+
+
 Reverse a string 
-class Solution {
+class sstring{
     public String reverseWords(String s) {
         String ans="";
         int i=s.length()-1;
