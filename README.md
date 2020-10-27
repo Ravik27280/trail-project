@@ -1,9 +1,6 @@
 # trail-project
-/trail 4.0000000000
-/this is my 4th PR please accept it thanks in advance.
-/this is my 4th PR for Hacktober fest
-/PR Req for october
-hacktober fest
+
+This program reverse the string wprd by word
 Reverse a string 
 class Solution {
     public String reverseWords(String s) {
